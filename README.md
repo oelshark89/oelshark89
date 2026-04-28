@@ -34,10 +34,10 @@ Before noon, I shipped a full-stack production chatbot at Udin, patched live sec
 
 ### 🚢 Selected Work
 
-* 🤖 **[AI Portfolio](https://github.com/oelshark89/omar-ai-portfolio)** — First-person Gemini agent that renders portfolio cards inline as you chat. Built with `Next.js`, `Gemini`, and `Supabase`.
+* 🤖 **[AI Portfolio](https://omar-elsharkawy.com)** — First-person Gemini agent that renders portfolio cards inline as you chat. Built with `Next.js`, `Gemini`, and `Supabase`.
 * 🌍 **GloboVibe** — Daily news ingestion → Gemini sentiment scoring → 3D interactive globe. (Team build).
 * 💬 **Bokra Chatbot** — Production chatbot embedded into a widely-used MENA app. Solo end-to-end: frontend, Ash domain, AI integrations. Built with `Elixir`, `Phoenix`, and `Ash`.
-* ⚙️ **RulezNgine** — Ash-native rules engine library, extracted from production work.
+* ⚙️ **RulezNgine** — Ash-native rules engine library
 
 ---
 
