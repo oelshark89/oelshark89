@@ -48,11 +48,6 @@ Before noon, I shipped a full-stack production chatbot at Udin, patched live sec
 <!-- Top Languages (includes private repos) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oelshark89&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=10" alt="Top Languages" />
 
-<!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=oelshark89&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oelshark89&theme=tokyo-night&hide_border=true&include_all_commits=true" alt="Contribution Graph" />
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=oelshark89&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -60,17 +55,11 @@ Before noon, I shipped a full-stack production chatbot at Udin, patched live sec
 <!-- Profile Summary Card (commits, PRs, issues, reviews) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oelshark89&theme=tokyonight" alt="Profile Summary" />
 
-<!-- Repos per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oelshark89&theme=tokyonight" alt="Repos Per Language" />
-
-<!-- Most Commit Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oelshark89&theme=tokyonight" alt="Most Commit Language" />
 
 <!-- Stats breakdown -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oelshark89&theme=tokyonight" alt="Stats" />
 
-<!-- Productive Time -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oelshark89&theme=tokyonight&utcOffset=3" alt="Productive Time" />
+
 
 
 ---
